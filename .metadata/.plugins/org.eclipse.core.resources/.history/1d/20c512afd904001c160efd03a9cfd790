@@ -1,5 +1,0 @@
-spring.jpa.hibernate.ddl-auto=update
-spring.datasource.url=jdbc:mysql://localhost/blog_pessoal?createDatabaseIfNotExist=true&serverTimezone=UTC&useSSl=false
-datasource.username=root
-datasource.password=and1607gen
-jpa.show-sql=true
